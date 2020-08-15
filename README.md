@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 -->
 <h3>About me</h3>
+
       - 🔭 I’m currently working on Data Structure and Algorithm.
       - 🌱 I’m currently learning  for SQl,BLockchain and Github.
       - 👯 I’m looking to collaborate on idea of blockchain for Hospital management System. 
@@ -15,3 +16,5 @@ Here are some ideas to get you started:
       - 😄 Pronouns: Ajau
       - ⚡ Fun fact: I like coding and Gym.
 
+
+            
